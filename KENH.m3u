@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trunglmtech/logo/main/logo-kenh-sctv4-1609387794001229202629.png" group-title="SCTV",SCTV4
+https://vtvgolive-sctvdrm.vtvdigital.vn/h7f2kyMLa8c02Wto9A6SZA/1795271005/manifest/sctv4/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trunglmtech/logo/main/vtv1-logo.jpg" group-title="VTV",VTV1
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv1/master.m3u8
